@@ -533,7 +533,7 @@ export default function Home() {
               marginBottom: "0.25rem",
             }}
           >
-            ✦ Make a wish ✦
+   
           </p>
 
           <h2
@@ -577,8 +577,8 @@ export default function Home() {
             >
               <Cards />
 
-             <p className="font-bold text-white">
-                Kati Ramrii Manxe! (Beautiful Photos!)
+             <p className="font-bold  mt-2" style={{ color: "rgba(200,160,255,0.6)", letterSpacing: "0.04em" }}>
+                 Hope you liked the surprise! 
              </p>
               <button
                 className="font-body"
